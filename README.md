@@ -1,0 +1,2 @@
+# InnoVerify-NFT-Backed-Idea-Validation-using-AI-and-Blockchain
+Welcome to the IdeaGuard project! IdeaGuard is an ambitious initiative at the crossroads of artificial intelligence (AI) and blockchain technology. Our goal is to reshape the landscape of research idea recognition, protection, and trading by harnessing the power of AI-driven novelty assessment and blockchain-backed non-fungible tokens (NFTs).
